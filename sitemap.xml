@@ -3,15 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wanghaojia.github.io/categories/</loc>
+    <loc>http://wanghaojia.github.io/post/my-first-post/</loc>
+    <lastmod>2020-06-14T16:11:07+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wanghaojia.github.io/tags/</loc>
+    <loc>http://wanghaojia.github.io/post/</loc>
+    <lastmod>2020-06-14T16:11:07+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wanghaojia.github.io/</loc>
+    <loc>http://wanghaojia.github.io/</loc>
+    <lastmod>2020-06-14T16:11:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://wanghaojia.github.io/test/</loc>
+    <lastmod>2020-06-14T16:03:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://wanghaojia.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://wanghaojia.github.io/tags/</loc>
   </url>
   
 </urlset>
